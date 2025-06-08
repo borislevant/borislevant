@@ -6,16 +6,15 @@
 
 ## About Me
 
-Hi there! I'm [YOUR NAME], a [YOUR PROFESSION/BACKGROUND]. I'm passionate about [YOUR INTERESTS/SPECIALIZATIONS].
+Hi there! I'm Boris Levant, a Algorithms researcher and R&D manager, Mathematician and little bit of Computer Scientists. I'm passionate about making things work and teaching it.
 
-- 🔭 I'm currently working on [CURRENT PROJECT]
-- 🌱 I'm currently learning [WHAT YOU'RE LEARNING]
-- 👯 I'm looking to collaborate on [AREAS OF INTEREST]
-- 📫 How to reach me: [YOUR EMAIL or SOCIAL MEDIA]
+- 🔭 I'm currently working on applying AI for Education
+- 🌱 I'm currently learning Multimodal LLM
+- 📫 How to reach me: <a href="mailto:levant@gmail.com">MAIL</a> or LinkedIn profile
 
 ## Teaching
 
-I enjoy sharing knowledge and helping others learn. Here are some of my teaching activities:
+I enjoy sharing knowledge and helping others learn. Here are some of my courses I teach in the Ashkelon Colledge
 
 - [COURSE/WORKSHOP NAME] - [BRIEF DESCRIPTION]
 - [COURSE/WORKSHOP NAME] - [BRIEF DESCRIPTION]
