@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi there! I'm Boris Levant, a Algorithms researcher and R&D manager, Mathematician and little bit of Computer Scientists. I'm passionate about making things work and teaching it.
+Hi there! I'm Boris Levant, a Algorithms researcher and R&D manager at Applied Materials. I'm passionate about making things work and teaching it.
 
 - 🔭 I'm currently working on applying AI for Education
 - 🌱 I'm currently learning Multimodal LLM
@@ -16,7 +16,7 @@ Hi there! I'm Boris Levant, a Algorithms researcher and R&D manager, Mathematici
 
 I enjoy sharing knowledge and helping others learn. Here are some of my courses I teach in the Ashkelon Colledge
 
-- [COURSE/WORKSHOP NAME] - [BRIEF DESCRIPTION]
+- <a href="https://github.com/borislevant/algorithms">Algorithms</a> - Algorithms course covering basic Algorithmic techniques and Graph algorithms
 - [COURSE/WORKSHOP NAME] - [BRIEF DESCRIPTION]
 - [MENTORSHIP PROGRAM] - [BRIEF DESCRIPTION]
 
