@@ -1,7 +1,7 @@
-# Welcome to My GitHub Profile! 👋
+%# Welcome to My GitHub Profile! 👋
 
 <div align="center">
-  <img src="https://github.com/[YOUR-USERNAME]/[YOUR-USERNAME]/blob/main/profile-image.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/borislevant/borislevant/blob/main/profile-image.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;" />
 </div>
 
 ## About Me
@@ -17,7 +17,7 @@ Hi there! I'm Boris Levant, a Algorithms researcher and R&D manager at Applied M
 I enjoy sharing knowledge and helping others learn. Here are some of my courses I teach in the Ashkelon Colledge
 
 - <a href="https://github.com/borislevant/algorithms">Algorithms</a> - Algorithms course covering basic Algorithmic techniques and Graph algorithms
-- [COURSE/WORKSHOP NAME] - [BRIEF DESCRIPTION]
+- <a href="https://github.com/borislevant/algorithms">Algorithms-2</a> - Advanced topics in Algorithms
 - [MENTORSHIP PROGRAM] - [BRIEF DESCRIPTION]
 
 ## Projects
