@@ -1,7 +1,7 @@
 %# Welcome to My GitHub Profile! 👋
 
 <div align="center">
-  <img src="https://github.com/borislevant/borislevant/blob/main/profile-image.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/borislevant/borislevant/blob/main/boris-levant.png" alt="Profile Picture" width="200" style="border-radius: 50%;" />
 </div>
 
 ## About Me
