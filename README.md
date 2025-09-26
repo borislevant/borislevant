@@ -28,32 +28,18 @@ I enjoy sharing knowledge and helping others learn. Here are some of my courses 
 
 - <a href="https://github.com/borislevant/algorithms">Algorithms</a> - Algorithms course covering basic Algorithmic techniques and Graph algorithms
 - <a href="https://github.com/borislevant/algorithms">Algorithms-2</a> - Advanced topics in Algorithms
-- [MENTORSHIP PROGRAM] - [BRIEF DESCRIPTION]
+- <a href="https://github.com/borislevant/python4ml">Python for Machine Learning</a> - A collection of Python-based Jupyter notebooks designed to support my Machine Learning courses at various colleges. The notebooks cover a broad range of topics — starting from the fundamentals of NumPy, Matplotlib, and Pandas, and progressing through core concepts of regression, classification, and essential machine learning principles
 
 ## Projects
 
 Here are some projects I've been working on:
 
 ### [Project Name 1]
-![Project Badge](https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellow)
+![Youtube Transcriber](https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellow)
 
-[Brief description of the project]
+Contains the code for downloading the YouTube videos, transcribing them and summarizing them
 
-[Link to project repository or demo]
-
-### [Project Name 2]
-![Project Badge](https://img.shields.io/badge/STATUS-COMPLETED-green)
-
-[Brief description of the project]
-
-[Link to project repository or demo]
-
-### [Project Name 3]
-![Project Badge](https://img.shields.io/badge/STATUS-PLANNING-blue)
-
-[Brief description of the project]
-
-[Link to project repository or demo]
+[Link to project repository or demo](https://github.com/borislevant/youtube-transcriber)
 
 ## Technical Blog
 
@@ -63,21 +49,12 @@ I write about technical topics and share my learnings:
 - [Blog Post Title 2](link-to-post) - [Brief description]
 - [Blog Post Title 3](link-to-post) - [Brief description]
 
-<details>
-  <summary>More blog posts</summary>
-  
-  - [Blog Post Title 4](link-to-post) - [Brief description]
-  - [Blog Post Title 5](link-to-post) - [Brief description]
-  - [Blog Post Title 6](link-to-post) - [Brief description]
-</details>
 
 ## Personal
 
-Outside of tech, I enjoy:
+Outside of tech, I enjoy learning and teaching Judaism. You can find my lectures on the intersection of Religion and Science in the following Youtube channel (Russian)
 
-- [HOBBY/INTEREST 1]
-- [HOBBY/INTEREST 2]
-- [HOBBY/INTEREST 3]
+- [Weekly Torah portions and more in Russian](https://www.youtube.com/channel/UCIcCANIrmN6xsKNpr7HCqUw)
 
 ---
 
