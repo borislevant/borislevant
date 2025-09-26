@@ -59,13 +59,10 @@ Outside of tech, I enjoy learning and teaching Judaism. You can find my lectures
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=[YOUR-USERNAME].[YOUR-USERNAME])
 
 <div align="center">
-  <a href="[YOUR LINKEDIN]">
+  <a href="https://www.linkedin.com/in/blevant/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[YOUR TWITTER]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="[YOUR WEBSITE]">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  <a href="https://www.youtube.com/channel/UCIcCANIrmN6xsKNpr7HCqUw">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
