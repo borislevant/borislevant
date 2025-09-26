@@ -13,7 +13,9 @@ With over 15 years of experience spanning semiconductors, computer vision, deep 
 Alongside my industry work, I teach and mentor students in algorithms, AI, machine learning, and computer vision, bridging theory with hands-on practice. My mission is to make advanced technologies not only cutting-edge but also accessible and impactful in everyday life.
 
 🔹 Research → Application: Translating mathematical rigor into working solutions.
+
 🔹 Industry → Academia: Building bridges between innovation and education.
+
 🔹 AI → People’s Lives: Harnessing technology to solve practical, human-centered challenges.
 
 If you’re interested in AI for semiconductors, education, or applied machine learning, you’ll find projects here that reflect both my professional journey and personal curiosity.
