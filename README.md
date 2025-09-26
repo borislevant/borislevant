@@ -26,7 +26,7 @@ If you’re interested in AI for semiconductors, education, or applied machine l
 
 I enjoy sharing knowledge and helping others learn. Here are some of my courses I teach in the Ashkelon Colledge
 
-- <a href="https://github.com/borislevant/algorithms">Algorithms</a> - Algorithms course covering basic Algorithmic techniques and Graph algorithms
+- <a href="https://github.com/borislevant/algorithms">Algorithms</a> - Algorithms course introducing fundamental algorithmic techniques and essential graph algorithms. Core topics include greedy methods, divide-and-conquer strategies, and dynamic programming. In addition, the course covers the foundations of graph theory and algorithms, such as breadth-first search (BFS), depth-first search (DFS), shortest paths (Dijkstra and Bellman-Ford), and minimum spanning trees (Kruskal and Prim). Together, these topics provide students with a solid understanding of classical algorithm design and analysis
 - <a href="https://github.com/borislevant/algorithms">Algorithms-2</a> - Advanced topics in Algorithms
 - <a href="https://github.com/borislevant/python4ml">Python for Machine Learning</a> - A collection of Python-based Jupyter notebooks designed to support my Machine Learning courses at various colleges. The notebooks cover a broad range of topics — starting from the fundamentals of NumPy, Matplotlib, and Pandas, and progressing through core concepts of regression, classification, and essential machine learning principles
 
@@ -34,7 +34,7 @@ I enjoy sharing knowledge and helping others learn. Here are some of my courses 
 
 Here are some projects I've been working on:
 
-### [Project Name 1]
+### [Youtube Transcriber]
 ![Youtube Transcriber](https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellow)
 
 Contains the code for downloading the YouTube videos, transcribing them and summarizing them
