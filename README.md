@@ -6,10 +6,18 @@
 
 ## About Me
 
-Hi there! I'm Boris Levant, a Algorithms researcher and R&D manager at Applied Materials. I'm passionate about making things work and teaching it.
+I’m Dr. Boris Levant, an algorithms researcher, R&D manager, and senior lecturer passionate about the intersection of AI, education, and real-world applications.
 
-- 🔭 I'm currently working on applying AI for Education
-- 🌱 I'm currently learning Multimodal LLM
+With over 15 years of experience spanning semiconductors, computer vision, deep learning, and optimization, I’ve had the privilege of building and leading algorithmic teams, driving innovative solutions from concept to production, and shaping GenAI adoption in industry.
+
+Alongside my industry work, I teach and mentor students in algorithms, AI, machine learning, and computer vision, bridging theory with hands-on practice. My mission is to make advanced technologies not only cutting-edge but also accessible and impactful in everyday life.
+
+🔹 Research → Application: Translating mathematical rigor into working solutions.
+🔹 Industry → Academia: Building bridges between innovation and education.
+🔹 AI → People’s Lives: Harnessing technology to solve practical, human-centered challenges.
+
+If you’re interested in AI for semiconductors, education, or applied machine learning, you’ll find projects here that reflect both my professional journey and personal curiosity.
+
 - 📫 How to reach me: <a href="mailto:levant@gmail.com">MAIL</a> or LinkedIn profile
 
 ## Teaching
