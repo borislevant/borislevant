@@ -27,6 +27,7 @@ I enjoy sharing knowledge and helping others learn. Here are some of my courses 
 - <a href="https://github.com/borislevant/algorithms">Algorithms</a> - Algorithms course introducing fundamental algorithmic techniques and essential graph algorithms. Core topics include greedy methods, divide-and-conquer strategies, and dynamic programming. In addition, the course covers the foundations of graph theory and algorithms, such as breadth-first search (BFS), depth-first search (DFS), shortest paths (Dijkstra and Bellman-Ford), and minimum spanning trees (Kruskal and Prim). Together, these topics provide students with a solid understanding of classical algorithm design and analysis
 - <a href="https://github.com/borislevant/algorithms">Algorithms-2</a> - Advanced topics in Algorithms
 - <a href="https://github.com/borislevant/python4ml">Python for Machine Learning</a> - A collection of Python-based Jupyter notebooks designed to support my Machine Learning courses at various colleges. The notebooks cover a broad range of topics — starting from the fundamentals of NumPy, Matplotlib, and Pandas, and progressing through core concepts of regression, classification, and essential machine learning principles
+- <a href="https://github.com/borislevant/python4cv">Python for Machine Computer Vision (CV)</a> - A collection of Python-based Jupyter notebooks designed to support my Computer Vision courses at various colleges
 
 ## Projects
 
